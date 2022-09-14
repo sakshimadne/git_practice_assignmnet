@@ -1,0 +1,1 @@
+console.log('help me to  wright prime number')
